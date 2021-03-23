@@ -9,13 +9,13 @@ Some metadata in the BTAA Geoportal includes place names, but does not include c
 
 ## Environment Setup
 
-We will be using **Anaconda 3** to edit and run scripts. Information on Anaconda installation can be found [here](https://docs.anaconda.com/anaconda/install/). Please note that all scripts are running on Python 3. 
+We will be using **Anaconda 3** to edit and run scripts. Information on Anaconda installation can be found [here](https://docs.anaconda.com/anaconda/install/).  All packages available for 64-bit Windows with Python 3.7 in the Anaconda can be found [here](https://docs.anaconda.com/anaconda/packages/py3.7_win-64/). Please note that all scripts are running on Python 3 (**3.7.6**).
 
 Here are all dependencies needed to be installed properly: 
 
-- [geonames](https://geocoder.readthedocs.io/providers/GeoNames.html) 
+- [geonames](https://geocoder.readthedocs.io/providers/GeoNames.html) [Version: 1.38.1]
 
-- [chardet](https://chardet.readthedocs.io/en/latest/index.html)
+- [chardet](https://chardet.readthedocs.io/en/latest/index.html) [Version: 3.0.4]
 
   
 
@@ -42,3 +42,7 @@ Here are all dependencies needed to be installed properly:
 - #### Python scripts
 
   It will pull URI, coordinates, hierarchy based on place name (“**Spatial Coverage**”) from the GeoNames database, and then export to a new csv file. 
+
+
+
+## Demo
