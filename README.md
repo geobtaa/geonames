@@ -46,3 +46,4 @@ Here are all dependencies needed to be installed properly:
 
 
 ## Demo
+![GeoNames_Demo](https://github.com/BTAA-Geospatial-Data-Project/geonames/blob/main/GeoNames_Demo.gif)
